@@ -24,7 +24,7 @@ Assess the company's performance across key metrics to boost trip volume and imp
 - Created a dim_month table with unique months and their start dates.
 
 ## Data Model
-![Home Page](screenshots/model.png)
+![Home Page](model.png)
 
 ## Dashboard Screenshots
 <img src="C:\Users\atifs\Desktop\practice\codebasic reume challenge\github img\Home pg.png" width="800">
